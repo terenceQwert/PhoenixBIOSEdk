@@ -4,6 +4,7 @@ It could suppport following file formats decoration
 - dec
 - dsc
 - pcd
+- vfr
 - def (Phoenix private language)
 
 How to let it work for developer.
